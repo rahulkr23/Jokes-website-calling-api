@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+  
+   body{
+   background:url("home.jpg") no-repeat center center/cover;
+  
+   
+}
+.container{
+     width: 63vw;
+     min-height: 37vh;  
+     text-align: center;  
+     margin-top: 30vh;  
+     margin-left: 40vh;
+     place-items: center;
+     background-color: hsl(0, 96%, 74%)
+     
+          
+}
+
+.container h3{
+    font-size: 3rem;
+    margin: 12px;
+}
+.Btn{
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 25px;
+    border-radius: 10px;
+    cursor: pointer;    
+}
+#joke{
+    color: rgb(255, 255, 255);
+    font-size: 1.8rem;
+    font-weight: bold;
+}
